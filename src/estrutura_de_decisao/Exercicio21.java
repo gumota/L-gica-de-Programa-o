@@ -2,7 +2,7 @@ package estrutura_de_decisao;
 
 import java.util.Scanner;
 
-public class Exercicio20 {
+public class Exercicio21 {
 
 	private static Scanner in;
 
