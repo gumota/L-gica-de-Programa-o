@@ -10,6 +10,9 @@ public class Exercicio05 {
 
 		in = new Scanner(System.in);
 
+		int x = in.nextInt();
+		System.out.println(x);
+
 	}
 
 }
