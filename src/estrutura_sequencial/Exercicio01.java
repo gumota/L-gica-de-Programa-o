@@ -2,7 +2,7 @@ package estrutura_sequencial;
 
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class Exercicio01 {
 
 	private static Scanner in;
 
