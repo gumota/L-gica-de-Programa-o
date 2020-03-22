@@ -12,9 +12,9 @@ public class Exercicio11 {
 		System.out.println("Digite o raio da circunferência: ");
 		int raio = in.nextInt();
 
-		double comprimento = 2 * Math.PI * raio;
+//		double comprimento = 2 * Math.PI * raio;
 
-		System.out.println("O comprimento do raio é " + comprimento);
+		System.out.println("O comprimento do raio é " + 2 * Math.PI * raio);
 
 	}
 
